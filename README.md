@@ -13,3 +13,10 @@ Este proyecto usa HTML5 y la API Canvas
 - Implementa la detección de colisiones
 - Maneja la puntuación
 - Añade un botón que presente las reglas mediante un sistema de slider
+
+## Mejoras
+
+- Iniciar el juego al pulsar una tecla. Mientras tanto la bola debe estar pegada a la paleta.
+- Posibilidad de cambios en los diseños del muro de ladrillos, tanto en colores como en formas.
+- Posibilidad de pausa del juego al pulsar una tecla
+- ... Y todo lo que se te ocurra 😃
